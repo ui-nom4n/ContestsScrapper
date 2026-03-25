@@ -17,6 +17,7 @@ export const ContestSchema = z.object({
   prize_pool: z.string().optional().describe('Prize information if available'),
   eligibility: z.string().optional().describe('Who can participate'),
   max_team_size: z.number().optional().describe('Maximum team size for team events'),
+  poster: z.string().url().optional().describe('URL to contest poster image'),
   scraped_at: z.string().datetime().describe('When this data was collected'),
   updated_at: z.string().datetime().describe('Last update timestamp')
 });

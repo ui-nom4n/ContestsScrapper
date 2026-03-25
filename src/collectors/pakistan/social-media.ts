@@ -17,6 +17,7 @@ export async function monitorSocialMedia(): Promise<Contest[]> {
     status: 'upcoming',
     tags: ['hackathon', 'acm', 'pakistan'],
     region: 'pakistan',
+    poster: 'https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&w=800&q=80',
     scraped_at: new Date().toISOString(),
     updated_at: new Date().toISOString()
   };

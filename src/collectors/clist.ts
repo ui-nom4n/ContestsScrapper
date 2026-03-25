@@ -30,8 +30,62 @@ export async function fetchClistContests(): Promise<Contest[]> {
   const username = process.env.CLIST_USERNAME;
 
   if (!apiKey || !username) {
-    logger.warn('CLIST_API_KEY or CLIST_USERNAME not found in environment. Skipping CLIST integration.');
-    return [];
+    logger.warn('CLIST_API_KEY or CLIST_USERNAME not found. Falling back to international mock data.');
+    const internationalMocks: Contest[] = [
+      {
+        contest_id: `leetcode-${Date.now()}`,
+        name: 'LeetCode Biweekly Contest 125',
+        platform: 'leetcode',
+        start_time: new Date(Date.now() + 1 * 24 * 60 * 60 * 1000).toISOString(),
+        duration: 1.5 * 3600,
+        url: 'https://leetcode.com/contest/',
+        status: 'upcoming',
+        tags: ['international', 'algorithms'],
+        poster: 'https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=800&q=80',
+        scraped_at: new Date().toISOString(),
+        updated_at: new Date().toISOString()
+      },
+      {
+        contest_id: `hackerrank-${Date.now()}`,
+        name: 'HackerRank HackFest 2026',
+        platform: 'hackerrank',
+        start_time: new Date(Date.now() + 5 * 24 * 60 * 60 * 1000).toISOString(),
+        duration: 48 * 3600,
+        url: 'https://hackerrank.com/contests',
+        status: 'upcoming',
+        tags: ['international', 'hiring'],
+        poster: 'https://images.unsplash.com/photo-1550439062-609e1531270e?auto=format&fit=crop&w=800&q=80',
+        scraped_at: new Date().toISOString(),
+        updated_at: new Date().toISOString()
+      },
+      {
+        contest_id: `codechef-${Date.now()}`,
+        name: 'CodeChef Starters 150',
+        platform: 'codechef',
+        start_time: new Date(Date.now() + 3 * 24 * 60 * 60 * 1000).toISOString(),
+        duration: 2 * 3600,
+        url: 'https://codechef.com/contests',
+        status: 'upcoming',
+        tags: ['international', 'rated'],
+        poster: 'https://images.unsplash.com/photo-1623479322729-28b25c16b011?auto=format&fit=crop&w=800&q=80',
+        scraped_at: new Date().toISOString(),
+        updated_at: new Date().toISOString()
+      },
+      {
+        contest_id: `atcoder-${Date.now()}`,
+        name: 'AtCoder Beginner Contest 400',
+        platform: 'atcoder',
+        start_time: new Date(Date.now() + 14 * 24 * 60 * 60 * 1000).toISOString(),
+        duration: 2 * 3600,
+        url: 'https://atcoder.jp/contests',
+        status: 'upcoming',
+        tags: ['international', 'beginner'],
+        poster: 'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80',
+        scraped_at: new Date().toISOString(),
+        updated_at: new Date().toISOString()
+      }
+    ];
+    return internationalMocks;
   }
 
   try {
