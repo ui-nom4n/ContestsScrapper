@@ -8,8 +8,8 @@
     "url": "https://codeforces.com/contest/2210",
     "status": "upcoming",
     "tags": [],
-    "scraped_at": "2026-03-25T04:39:54.535Z",
-    "updated_at": "2026-03-25T04:39:54.535Z"
+    "scraped_at": "2026-03-25T04:48:06.270Z",
+    "updated_at": "2026-03-25T04:48:06.270Z"
   },
   {
     "contest_id": "codeforces-2211",
@@ -20,14 +20,14 @@
     "url": "https://codeforces.com/contest/2211",
     "status": "upcoming",
     "tags": [],
-    "scraped_at": "2026-03-25T04:39:54.535Z",
-    "updated_at": "2026-03-25T04:39:54.535Z"
+    "scraped_at": "2026-03-25T04:48:06.270Z",
+    "updated_at": "2026-03-25T04:48:06.270Z"
   },
   {
     "contest_id": "codepk-2025-mock",
     "name": "codePK 2025 Regional Qualifier",
     "platform": "codepk",
-    "start_time": "2026-04-01T04:39:53.277Z",
+    "start_time": "2026-04-01T04:48:05.281Z",
     "duration": 10800,
     "url": "https://cwpakistan.com/codepk-2025",
     "status": "upcoming",
@@ -38,14 +38,14 @@
       "regional"
     ],
     "region": "pakistan",
-    "scraped_at": "2026-03-25T04:39:53.277Z",
-    "updated_at": "2026-03-25T04:39:53.277Z"
+    "scraped_at": "2026-03-25T04:48:05.281Z",
+    "updated_at": "2026-03-25T04:48:05.281Z"
   },
   {
-    "contest_id": "social-media-mock-1774413593287",
+    "contest_id": "social-media-mock-1774414085291",
     "name": "Hackathon ACM Student Chapter",
     "platform": "facebook_group",
-    "start_time": "2026-03-29T04:39:53.287Z",
+    "start_time": "2026-03-29T04:48:05.291Z",
     "duration": 43200,
     "url": "https://facebook.com/events/1234567890",
     "status": "upcoming",
@@ -55,7 +55,7 @@
       "pakistan"
     ],
     "region": "pakistan",
-    "scraped_at": "2026-03-25T04:39:53.287Z",
-    "updated_at": "2026-03-25T04:39:53.287Z"
+    "scraped_at": "2026-03-25T04:48:05.291Z",
+    "updated_at": "2026-03-25T04:48:05.291Z"
   }
 ]

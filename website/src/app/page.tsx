@@ -1,6 +1,7 @@
 import React from 'react';
 import fs from 'fs';
 import path from 'path';
+import CopyButton from '../components/CopyButton';
 
 async function getContests() {
   const dataPath = path.join(process.cwd(), '..', 'data', 'contests', 'upcoming.json');
@@ -25,6 +26,8 @@ export default async function Home() {
         Discover upcoming competitive programming events across major platforms and local universities.
       </p>
 
+      <CopyButton contests={contests} />
+
       <div className="w-full max-w-5xl px-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {contests.length === 0 ? (
           <p className="col-span-full justify-self-center text-gray-500 italic">No upcoming contests currently indexed.</p>
@@ -47,6 +50,7 @@ export default async function Home() {
                   <p>🗓 {new Date(contest.start_time).toLocaleString()}</p>
                   <p>⏱ {Math.round(contest.duration / 3600)} Hours</p>
                   {contest.university && <p>🏫 {contest.university}</p>}
+                  {contest.region && <p className="capitalize">🌍 {contest.region}</p>}
                 </div>
               </div>
               <a 
