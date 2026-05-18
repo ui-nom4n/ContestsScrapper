@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "contest_id": "codeforces-2230",
+    "name": "Educational Codeforces Round 190 (Rated for Div. 2)",
+    "platform": "codeforces",
+    "start_time": "2026-05-18T14:35:00.000Z",
+    "duration": 7200,
+    "url": "https://codeforces.com/contest/2230",
+    "status": "ongoing",
+    "tags": [],
+    "scraped_at": "2026-05-18T15:25:40.358Z",
+    "updated_at": "2026-05-18T15:25:40.358Z"
+  }
+]
