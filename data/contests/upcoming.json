@@ -8,8 +8,8 @@
     "url": "https://codeforces.com/contest/2233",
     "status": "upcoming",
     "tags": [],
-    "scraped_at": "2026-05-29T02:55:27.580Z",
-    "updated_at": "2026-05-29T02:55:27.580Z"
+    "scraped_at": "2026-05-29T09:49:20.016Z",
+    "updated_at": "2026-05-29T09:49:20.016Z"
   },
   {
     "contest_id": "codeforces-2232",
@@ -20,14 +20,14 @@
     "url": "https://codeforces.com/contest/2232",
     "status": "upcoming",
     "tags": [],
-    "scraped_at": "2026-05-29T02:55:27.580Z",
-    "updated_at": "2026-05-29T02:55:27.580Z"
+    "scraped_at": "2026-05-29T09:49:20.017Z",
+    "updated_at": "2026-05-29T09:49:20.017Z"
   },
   {
-    "contest_id": "leetcode-1780023327076",
+    "contest_id": "leetcode-1780048159665",
     "name": "LeetCode Biweekly Contest 125",
     "platform": "leetcode",
-    "start_time": "2026-05-30T02:55:27.076Z",
+    "start_time": "2026-05-30T09:49:19.665Z",
     "duration": 5400,
     "url": "https://leetcode.com/contest/",
     "status": "upcoming",
@@ -36,14 +36,14 @@
       "algorithms"
     ],
     "poster": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=800&q=80",
-    "scraped_at": "2026-05-29T02:55:27.076Z",
-    "updated_at": "2026-05-29T02:55:27.076Z"
+    "scraped_at": "2026-05-29T09:49:19.665Z",
+    "updated_at": "2026-05-29T09:49:19.665Z"
   },
   {
-    "contest_id": "hackerrank-1780023327076",
+    "contest_id": "hackerrank-1780048159665",
     "name": "HackerRank HackFest 2026",
     "platform": "hackerrank",
-    "start_time": "2026-06-03T02:55:27.076Z",
+    "start_time": "2026-06-03T09:49:19.665Z",
     "duration": 172800,
     "url": "https://hackerrank.com/contests",
     "status": "upcoming",
@@ -52,14 +52,14 @@
       "hiring"
     ],
     "poster": "https://images.unsplash.com/photo-1550439062-609e1531270e?auto=format&fit=crop&w=800&q=80",
-    "scraped_at": "2026-05-29T02:55:27.076Z",
-    "updated_at": "2026-05-29T02:55:27.076Z"
+    "scraped_at": "2026-05-29T09:49:19.665Z",
+    "updated_at": "2026-05-29T09:49:19.665Z"
   },
   {
-    "contest_id": "codechef-1780023327076",
+    "contest_id": "codechef-1780048159665",
     "name": "CodeChef Starters 150",
     "platform": "codechef",
-    "start_time": "2026-06-01T02:55:27.076Z",
+    "start_time": "2026-06-01T09:49:19.665Z",
     "duration": 7200,
     "url": "https://codechef.com/contests",
     "status": "upcoming",
@@ -68,14 +68,14 @@
       "rated"
     ],
     "poster": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?auto=format&fit=crop&w=800&q=80",
-    "scraped_at": "2026-05-29T02:55:27.076Z",
-    "updated_at": "2026-05-29T02:55:27.076Z"
+    "scraped_at": "2026-05-29T09:49:19.665Z",
+    "updated_at": "2026-05-29T09:49:19.665Z"
   },
   {
-    "contest_id": "atcoder-1780023327076",
+    "contest_id": "atcoder-1780048159665",
     "name": "AtCoder Beginner Contest 400",
     "platform": "atcoder",
-    "start_time": "2026-06-12T02:55:27.076Z",
+    "start_time": "2026-06-12T09:49:19.665Z",
     "duration": 7200,
     "url": "https://atcoder.jp/contests",
     "status": "upcoming",
@@ -84,14 +84,14 @@
       "beginner"
     ],
     "poster": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
-    "scraped_at": "2026-05-29T02:55:27.076Z",
-    "updated_at": "2026-05-29T02:55:27.076Z"
+    "scraped_at": "2026-05-29T09:49:19.665Z",
+    "updated_at": "2026-05-29T09:49:19.665Z"
   },
   {
     "contest_id": "codepk-2025-mock",
     "name": "codePK 2025 Regional Qualifier",
     "platform": "codepk",
-    "start_time": "2026-06-05T02:55:27.077Z",
+    "start_time": "2026-06-05T09:49:19.666Z",
     "duration": 10800,
     "url": "https://cwpakistan.com/codepk-2025",
     "status": "upcoming",
@@ -104,14 +104,14 @@
     "region": "pakistan",
     "university": "FAST-NUCES Lahore",
     "poster": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=80",
-    "scraped_at": "2026-05-29T02:55:27.077Z",
-    "updated_at": "2026-05-29T02:55:27.077Z"
+    "scraped_at": "2026-05-29T09:49:19.666Z",
+    "updated_at": "2026-05-29T09:49:19.666Z"
   },
   {
-    "contest_id": "nust-1780023327077",
+    "contest_id": "nust-1780048159666",
     "name": "NUST Coding Marathon",
     "platform": "codepk",
-    "start_time": "2026-06-08T02:55:27.077Z",
+    "start_time": "2026-06-08T09:49:19.666Z",
     "duration": 18000,
     "url": "https://nust.edu.pk/hackathon",
     "status": "upcoming",
@@ -122,14 +122,14 @@
     "region": "pakistan",
     "university": "NUST Islamabad",
     "poster": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80",
-    "scraped_at": "2026-05-29T02:55:27.077Z",
-    "updated_at": "2026-05-29T02:55:27.077Z"
+    "scraped_at": "2026-05-29T09:49:19.666Z",
+    "updated_at": "2026-05-29T09:49:19.666Z"
   },
   {
-    "contest_id": "iba-1780023327077",
+    "contest_id": "iba-1780048159666",
     "name": "IBA Speed Programming",
     "platform": "codepk",
-    "start_time": "2026-05-31T02:55:27.077Z",
+    "start_time": "2026-05-31T09:49:19.666Z",
     "duration": 7200,
     "url": "https://iba.edu.pk/speed-prog",
     "status": "upcoming",
@@ -140,14 +140,14 @@
     "region": "pakistan",
     "university": "IBA Karachi",
     "poster": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=800&q=80",
-    "scraped_at": "2026-05-29T02:55:27.077Z",
-    "updated_at": "2026-05-29T02:55:27.077Z"
+    "scraped_at": "2026-05-29T09:49:19.666Z",
+    "updated_at": "2026-05-29T09:49:19.666Z"
   },
   {
-    "contest_id": "social-media-mock-1780023327084",
+    "contest_id": "social-media-mock-1780048159674",
     "name": "Hackathon ACM Student Chapter",
     "platform": "facebook_group",
-    "start_time": "2026-06-02T02:55:27.084Z",
+    "start_time": "2026-06-02T09:49:19.674Z",
     "duration": 43200,
     "url": "https://facebook.com/events/1234567890",
     "status": "upcoming",
@@ -158,7 +158,7 @@
     ],
     "region": "pakistan",
     "poster": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&w=800&q=80",
-    "scraped_at": "2026-05-29T02:55:27.084Z",
-    "updated_at": "2026-05-29T02:55:27.084Z"
+    "scraped_at": "2026-05-29T09:49:19.674Z",
+    "updated_at": "2026-05-29T09:49:19.674Z"
   }
 ]
