@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "contest_id": "codeforces-2242",
+    "name": "Educational Codeforces Round 192 (Rated for Div. 2)",
+    "platform": "codeforces",
+    "start_time": "2026-07-06T14:35:00.000Z",
+    "duration": 7200,
+    "url": "https://codeforces.com/contest/2242",
+    "status": "ongoing",
+    "tags": [],
+    "scraped_at": "2026-07-06T15:25:17.970Z",
+    "updated_at": "2026-07-06T15:25:17.970Z"
+  }
+]
