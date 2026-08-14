@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "contest_id": "codeforces-2251",
+    "name": "ICPC 2026 Online Challenge 1 powered by Huawei",
+    "platform": "codeforces",
+    "start_time": "2026-08-14T11:00:00.000Z",
+    "duration": 1209600,
+    "url": "https://codeforces.com/contest/2251",
+    "status": "ongoing",
+    "tags": [],
+    "scraped_at": "2026-08-14T12:58:22.827Z",
+    "updated_at": "2026-08-14T12:58:22.827Z"
+  }
+]
