@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "contest_id": "codeforces-2267",
+    "name": "Codeforces Round 1123 (Div. 2)",
+    "platform": "codeforces",
+    "start_time": "2026-09-25T14:35:00.000Z",
+    "duration": 8100,
+    "url": "https://codeforces.com/contest/2267",
+    "status": "ongoing",
+    "tags": [],
+    "scraped_at": "2026-09-25T16:28:21.505Z",
+    "updated_at": "2026-09-25T16:28:21.505Z"
+  }
+]
