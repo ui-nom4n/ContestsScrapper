@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "contest_id": "codeforces-2268",
+    "name": "Codeforces Round 1124 (Div. 1)",
+    "platform": "codeforces",
+    "start_time": "2026-09-26T14:35:00.000Z",
+    "duration": 9000,
+    "url": "https://codeforces.com/contest/2268",
+    "status": "ongoing",
+    "tags": [],
+    "scraped_at": "2026-09-26T15:43:05.064Z",
+    "updated_at": "2026-09-26T15:43:05.064Z"
+  },
+  {
+    "contest_id": "codeforces-2269",
+    "name": "Codeforces Round 1124 (Div. 2)",
+    "platform": "codeforces",
+    "start_time": "2026-09-26T14:35:00.000Z",
+    "duration": 9000,
+    "url": "https://codeforces.com/contest/2269",
+    "status": "ongoing",
+    "tags": [],
+    "scraped_at": "2026-09-26T15:43:05.064Z",
+    "updated_at": "2026-09-26T15:43:05.064Z"
+  }
+]
