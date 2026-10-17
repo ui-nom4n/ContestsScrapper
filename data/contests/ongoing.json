@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "contest_id": "codeforces-2261",
+    "name": "WorldQuant Round 1 (Codeforces Round 1128, Div. 1 + Div. 2)",
+    "platform": "codeforces",
+    "start_time": "2026-10-17T14:35:00.000Z",
+    "duration": 10800,
+    "url": "https://codeforces.com/contest/2261",
+    "status": "ongoing",
+    "tags": [],
+    "scraped_at": "2026-10-17T14:54:47.146Z",
+    "updated_at": "2026-10-17T14:54:47.146Z"
+  }
+]
