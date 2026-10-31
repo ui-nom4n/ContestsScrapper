@@ -8,8 +8,8 @@
     "url": "https://codeforces.com/contest/2282",
     "status": "upcoming",
     "tags": [],
-    "scraped_at": "2026-10-30T21:54:51.762Z",
-    "updated_at": "2026-10-30T21:54:51.762Z"
+    "scraped_at": "2026-10-31T03:57:18.516Z",
+    "updated_at": "2026-10-31T03:57:18.516Z"
   },
   {
     "contest_id": "codeforces-2286",
@@ -20,8 +20,8 @@
     "url": "https://codeforces.com/contest/2286",
     "status": "upcoming",
     "tags": [],
-    "scraped_at": "2026-10-30T21:54:51.762Z",
-    "updated_at": "2026-10-30T21:54:51.762Z"
+    "scraped_at": "2026-10-31T03:57:18.516Z",
+    "updated_at": "2026-10-31T03:57:18.516Z"
   },
   {
     "contest_id": "codeforces-2285",
@@ -32,8 +32,8 @@
     "url": "https://codeforces.com/contest/2285",
     "status": "upcoming",
     "tags": [],
-    "scraped_at": "2026-10-30T21:54:51.762Z",
-    "updated_at": "2026-10-30T21:54:51.762Z"
+    "scraped_at": "2026-10-31T03:57:18.516Z",
+    "updated_at": "2026-10-31T03:57:18.516Z"
   },
   {
     "contest_id": "codeforces-2279",
@@ -44,8 +44,8 @@
     "url": "https://codeforces.com/contest/2279",
     "status": "upcoming",
     "tags": [],
-    "scraped_at": "2026-10-30T21:54:51.762Z",
-    "updated_at": "2026-10-30T21:54:51.762Z"
+    "scraped_at": "2026-10-31T03:57:18.516Z",
+    "updated_at": "2026-10-31T03:57:18.516Z"
   },
   {
     "contest_id": "codeforces-2280",
@@ -56,8 +56,8 @@
     "url": "https://codeforces.com/contest/2280",
     "status": "upcoming",
     "tags": [],
-    "scraped_at": "2026-10-30T21:54:51.762Z",
-    "updated_at": "2026-10-30T21:54:51.762Z"
+    "scraped_at": "2026-10-31T03:57:18.516Z",
+    "updated_at": "2026-10-31T03:57:18.516Z"
   },
   {
     "contest_id": "codeforces-2284",
@@ -68,20 +68,8 @@
     "url": "https://codeforces.com/contest/2284",
     "status": "upcoming",
     "tags": [],
-    "scraped_at": "2026-10-30T21:54:51.762Z",
-    "updated_at": "2026-10-30T21:54:51.762Z"
-  },
-  {
-    "contest_id": "codeforces-2281",
-    "name": "ICPC 2026 Online Challenge 2 powered by Huawei",
-    "platform": "codeforces",
-    "start_time": "2026-11-05T11:00:00.000Z",
-    "duration": 1209600,
-    "url": "https://codeforces.com/contest/2281",
-    "status": "upcoming",
-    "tags": [],
-    "scraped_at": "2026-10-30T21:54:51.762Z",
-    "updated_at": "2026-10-30T21:54:51.762Z"
+    "scraped_at": "2026-10-31T03:57:18.516Z",
+    "updated_at": "2026-10-31T03:57:18.516Z"
   },
   {
     "contest_id": "codeforces-2283",
@@ -92,8 +80,8 @@
     "url": "https://codeforces.com/contest/2283",
     "status": "upcoming",
     "tags": [],
-    "scraped_at": "2026-10-30T21:54:51.762Z",
-    "updated_at": "2026-10-30T21:54:51.762Z"
+    "scraped_at": "2026-10-31T03:57:18.516Z",
+    "updated_at": "2026-10-31T03:57:18.516Z"
   },
   {
     "contest_id": "codeforces-2278",
@@ -104,14 +92,14 @@
     "url": "https://codeforces.com/contest/2278",
     "status": "upcoming",
     "tags": [],
-    "scraped_at": "2026-10-30T21:54:51.762Z",
-    "updated_at": "2026-10-30T21:54:51.762Z"
+    "scraped_at": "2026-10-31T03:57:18.516Z",
+    "updated_at": "2026-10-31T03:57:18.516Z"
   },
   {
-    "contest_id": "leetcode-1793397291193",
+    "contest_id": "leetcode-1793419038038",
     "name": "LeetCode Biweekly Contest 125",
     "platform": "leetcode",
-    "start_time": "2026-10-31T21:54:51.193Z",
+    "start_time": "2026-11-01T03:57:18.038Z",
     "duration": 5400,
     "url": "https://leetcode.com/contest/",
     "status": "upcoming",
@@ -120,14 +108,14 @@
       "algorithms"
     ],
     "poster": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=800&q=80",
-    "scraped_at": "2026-10-30T21:54:51.193Z",
-    "updated_at": "2026-10-30T21:54:51.193Z"
+    "scraped_at": "2026-10-31T03:57:18.038Z",
+    "updated_at": "2026-10-31T03:57:18.038Z"
   },
   {
-    "contest_id": "hackerrank-1793397291193",
+    "contest_id": "hackerrank-1793419038038",
     "name": "HackerRank HackFest 2026",
     "platform": "hackerrank",
-    "start_time": "2026-11-04T21:54:51.193Z",
+    "start_time": "2026-11-05T03:57:18.038Z",
     "duration": 172800,
     "url": "https://hackerrank.com/contests",
     "status": "upcoming",
@@ -136,14 +124,14 @@
       "hiring"
     ],
     "poster": "https://images.unsplash.com/photo-1550439062-609e1531270e?auto=format&fit=crop&w=800&q=80",
-    "scraped_at": "2026-10-30T21:54:51.193Z",
-    "updated_at": "2026-10-30T21:54:51.193Z"
+    "scraped_at": "2026-10-31T03:57:18.038Z",
+    "updated_at": "2026-10-31T03:57:18.038Z"
   },
   {
-    "contest_id": "codechef-1793397291193",
+    "contest_id": "codechef-1793419038038",
     "name": "CodeChef Starters 150",
     "platform": "codechef",
-    "start_time": "2026-11-02T21:54:51.193Z",
+    "start_time": "2026-11-03T03:57:18.038Z",
     "duration": 7200,
     "url": "https://codechef.com/contests",
     "status": "upcoming",
@@ -152,14 +140,14 @@
       "rated"
     ],
     "poster": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?auto=format&fit=crop&w=800&q=80",
-    "scraped_at": "2026-10-30T21:54:51.193Z",
-    "updated_at": "2026-10-30T21:54:51.193Z"
+    "scraped_at": "2026-10-31T03:57:18.038Z",
+    "updated_at": "2026-10-31T03:57:18.038Z"
   },
   {
-    "contest_id": "atcoder-1793397291193",
+    "contest_id": "atcoder-1793419038038",
     "name": "AtCoder Beginner Contest 400",
     "platform": "atcoder",
-    "start_time": "2026-11-13T21:54:51.193Z",
+    "start_time": "2026-11-14T03:57:18.038Z",
     "duration": 7200,
     "url": "https://atcoder.jp/contests",
     "status": "upcoming",
@@ -168,14 +156,14 @@
       "beginner"
     ],
     "poster": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
-    "scraped_at": "2026-10-30T21:54:51.193Z",
-    "updated_at": "2026-10-30T21:54:51.193Z"
+    "scraped_at": "2026-10-31T03:57:18.038Z",
+    "updated_at": "2026-10-31T03:57:18.038Z"
   },
   {
     "contest_id": "codepk-2025-mock",
     "name": "codePK 2025 Regional Qualifier",
     "platform": "codepk",
-    "start_time": "2026-11-06T21:54:51.194Z",
+    "start_time": "2026-11-07T03:57:18.038Z",
     "duration": 10800,
     "url": "https://cwpakistan.com/codepk-2025",
     "status": "upcoming",
@@ -188,14 +176,14 @@
     "region": "pakistan",
     "university": "FAST-NUCES Lahore",
     "poster": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=80",
-    "scraped_at": "2026-10-30T21:54:51.194Z",
-    "updated_at": "2026-10-30T21:54:51.194Z"
+    "scraped_at": "2026-10-31T03:57:18.038Z",
+    "updated_at": "2026-10-31T03:57:18.038Z"
   },
   {
-    "contest_id": "nust-1793397291194",
+    "contest_id": "nust-1793419038038",
     "name": "NUST Coding Marathon",
     "platform": "codepk",
-    "start_time": "2026-11-09T21:54:51.194Z",
+    "start_time": "2026-11-10T03:57:18.038Z",
     "duration": 18000,
     "url": "https://nust.edu.pk/hackathon",
     "status": "upcoming",
@@ -206,14 +194,14 @@
     "region": "pakistan",
     "university": "NUST Islamabad",
     "poster": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80",
-    "scraped_at": "2026-10-30T21:54:51.194Z",
-    "updated_at": "2026-10-30T21:54:51.194Z"
+    "scraped_at": "2026-10-31T03:57:18.038Z",
+    "updated_at": "2026-10-31T03:57:18.038Z"
   },
   {
-    "contest_id": "iba-1793397291194",
+    "contest_id": "iba-1793419038038",
     "name": "IBA Speed Programming",
     "platform": "codepk",
-    "start_time": "2026-11-01T21:54:51.194Z",
+    "start_time": "2026-11-02T03:57:18.038Z",
     "duration": 7200,
     "url": "https://iba.edu.pk/speed-prog",
     "status": "upcoming",
@@ -224,14 +212,14 @@
     "region": "pakistan",
     "university": "IBA Karachi",
     "poster": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=800&q=80",
-    "scraped_at": "2026-10-30T21:54:51.194Z",
-    "updated_at": "2026-10-30T21:54:51.194Z"
+    "scraped_at": "2026-10-31T03:57:18.038Z",
+    "updated_at": "2026-10-31T03:57:18.038Z"
   },
   {
-    "contest_id": "social-media-mock-1793397291199",
+    "contest_id": "social-media-mock-1793419038043",
     "name": "Hackathon ACM Student Chapter",
     "platform": "facebook_group",
-    "start_time": "2026-11-03T21:54:51.199Z",
+    "start_time": "2026-11-04T03:57:18.043Z",
     "duration": 43200,
     "url": "https://facebook.com/events/1234567890",
     "status": "upcoming",
@@ -242,7 +230,7 @@
     ],
     "region": "pakistan",
     "poster": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&w=800&q=80",
-    "scraped_at": "2026-10-30T21:54:51.199Z",
-    "updated_at": "2026-10-30T21:54:51.199Z"
+    "scraped_at": "2026-10-31T03:57:18.043Z",
+    "updated_at": "2026-10-31T03:57:18.043Z"
   }
 ]
