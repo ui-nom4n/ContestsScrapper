@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "contest_id": "codeforces-2292",
+    "name": "Codeforces Round 1138 (Div. 3)",
+    "platform": "codeforces",
+    "start_time": "2026-11-27T14:35:00.000Z",
+    "duration": 8100,
+    "url": "https://codeforces.com/contest/2292",
+    "status": "ongoing",
+    "tags": [],
+    "scraped_at": "2026-11-27T16:04:56.694Z",
+    "updated_at": "2026-11-27T16:04:56.694Z"
+  }
+]
